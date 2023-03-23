@@ -9,12 +9,12 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 ### Steps for Model Building
-1.Reading and Understanding Data <br>
-2.Visualising the Data<br>
-3.Data Preparation <br>
-4.Splitting the Data into Training and Testing Sets  <br>
-5.Feature Scaling  <br>
-6.Building the Model <br>
-7.Residual Analysis of the train data  <br>
-8.Making predictions using final model <br>
-9.Model Evaluation <br>
+1. Reading and Understanding Data <br>
+2. Visualising the Data<br>
+3. Data Preparation <br>
+4. Splitting the Data into Training and Testing Sets  <br>
+5. Feature Scaling  <br>
+6. Building the Model <br>
+7. Residual Analysis of the train data  <br>
+8. Making predictions using final model <br>
+9. Model Evaluation <br>
